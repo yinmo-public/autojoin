@@ -1,2 +1,2 @@
 # autojoin
-line bot auto join into  group
+line bot auto join group
