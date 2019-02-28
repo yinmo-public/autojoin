@@ -2,10 +2,9 @@
 
  [![Supported python versions: 3.x](https://img.shields.io/badge/python-3.x-green.svg "Supported python versions: 3.x")](https://www.python.org/downloads/) 
 
-*LINE Unofficial API* [here](https://github.com/yinmo-public/linepy)
+*LINE Unofficial Bot*
 
 ----
-```LINE bot autojoin```
 
 ## Requirement
 
