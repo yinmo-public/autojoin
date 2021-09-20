@@ -17,4 +17,5 @@ The linepy module requires Python 3.x  [download](https://www.python.org/downloa
 ## Credits to
 [@author](https://line.me/ti/p/3eamxoks_T)
 
-## Update 02/28/2019
+## Update 2021
+⚠ DO NOT USE THIS CODE OR YOU WILL GET BAN CHAT
